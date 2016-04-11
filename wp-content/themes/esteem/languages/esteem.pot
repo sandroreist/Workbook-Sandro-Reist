@@ -1,0 +1,652 @@
+# Esteem WordPress Theme. Translation template file.
+# This file is distributed under the same license as the Esteem Theme.
+msgid ""
+msgstr ""
+"Project-Id-Version: Esteem\n"
+"POT-Creation-Date: 2015-02-23 13:32+0545\n"
+"PO-Revision-Date: 2015-02-23 13:32+0545\n"
+"Last-Translator: \n"
+"Language-Team: ThemeGrill <themegrill@gmail.com>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:20
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: 404.php:22
+msgid "It looks like nothing was found at this location. Try the search below."
+msgstr ""
+
+#: comments.php:31
+#, php-format
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:38 comments.php:56
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:39 comments.php:57
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: comments.php:40 comments.php:58
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: comments.php:68
+msgid "Comments are closed."
+msgstr ""
+
+#: content-blog-image-large.php:42 content-blog-image-medium.php:43
+#: content.php:46 inc/widgets/widgets.php:195 inc/widgets/widgets.php:212
+msgid "Read more"
+msgstr ""
+
+#: content-page.php:17 content-single.php:29
+msgid "Pages:"
+msgstr ""
+
+#: content-single.php:22
+msgid "Tagged on: "
+msgstr ""
+
+#: fontawesome/icons.php:4
+msgid "(None)"
+msgstr ""
+
+#: functions.php:225
+msgid "You do not have sufficient permissions to access this page."
+msgstr ""
+
+#: functions.php:228
+msgid "Theme Options"
+msgstr ""
+
+#: functions.php:230
+#, php-format
+msgid ""
+"<p style=\"font-size: 16px; max-width: 800px\";>As our themes are hosted on "
+"WordPress repository, we need to follow the WordPress theme guidelines and "
+"as per the new guiedlines we have migrated all our Theme Options to "
+"Customizer.</p><p style=\"font-size: 16px; max-width: 800px\";>We too think "
+"this is a better move in the long run. All the options are unchanged, it is "
+"just that they are moved to customizer. So, please use this <a href=\"%1$s"
+"\">link</a> to customize your site. If you have any issues then do let us "
+"know via our <a href=\"%2$s\">Contact form</a></p>"
+msgstr ""
+
+#: inc/admin/meta-boxes.php:21 inc/admin/meta-boxes.php:31
+msgid "Select Layout"
+msgstr ""
+
+#: inc/admin/meta-boxes.php:41
+msgid "Icon class"
+msgstr ""
+
+#: inc/admin/meta-boxes.php:55
+msgid "Sidebar Layout"
+msgstr ""
+
+#: inc/admin/meta-boxes.php:60
+msgid "Default Layout"
+msgstr ""
+
+#: inc/admin/meta-boxes.php:64 inc/widgets/widgets.php:18
+msgid "Right Sidebar"
+msgstr ""
+
+#: inc/admin/meta-boxes.php:68 inc/widgets/widgets.php:29
+msgid "Left Sidebar"
+msgstr ""
+
+#: inc/admin/meta-boxes.php:72
+msgid "No sidebar full width"
+msgstr ""
+
+#: inc/admin/meta-boxes.php:76
+msgid "No sidebar content Centered"
+msgstr ""
+
+#: inc/admin/meta-boxes.php:86
+msgid "fontawesome Icons"
+msgstr ""
+
+#: inc/customizer.php:15
+msgid "Header"
+msgstr ""
+
+#: inc/customizer.php:20
+msgid "Header Logo"
+msgstr ""
+
+#: inc/customizer.php:33
+msgid "Upload logo for your header."
+msgstr ""
+
+#: inc/customizer.php:41
+msgid "Show"
+msgstr ""
+
+#: inc/customizer.php:53
+msgid "Choose the option that you want."
+msgstr ""
+
+#: inc/customizer.php:56
+msgid "Header Logo Only"
+msgstr ""
+
+#: inc/customizer.php:57
+msgid "Header Text Only"
+msgstr ""
+
+#: inc/customizer.php:58
+msgid "Show Both"
+msgstr ""
+
+#: inc/customizer.php:59
+msgid "Disable"
+msgstr ""
+
+#: inc/customizer.php:66
+msgid "Promo box Primary Slogan"
+msgstr ""
+
+#: inc/customizer.php:76
+msgid "Enter the main Slogan"
+msgstr ""
+
+#: inc/customizer.php:83
+msgid "Promo box secondary Slogan"
+msgstr ""
+
+#: inc/customizer.php:93
+msgid "Enter the sub slogan"
+msgstr ""
+
+#: inc/customizer.php:100 inc/customizer.php:110
+msgid "Button Text"
+msgstr ""
+
+#: inc/customizer.php:117
+msgid "Button redirect link"
+msgstr ""
+
+#: inc/customizer.php:127
+msgid "Enter redirect link"
+msgstr ""
+
+#: inc/customizer.php:137
+msgid "Design"
+msgstr ""
+
+#: inc/customizer.php:142
+msgid "Site Layout"
+msgstr ""
+
+#: inc/customizer.php:154
+msgid "Choose your site layout. The change is reflected in whole site."
+msgstr ""
+
+#: inc/customizer.php:157
+msgid "Boxed layout"
+msgstr ""
+
+#: inc/customizer.php:158
+msgid "Wide layout"
+msgstr ""
+
+#: inc/customizer.php:226
+msgid "Default layout"
+msgstr ""
+
+#: inc/customizer.php:239
+msgid ""
+"Select default layout. This layout will be reflected in whole site archives, "
+"search etc. The layout for a single post and page can be controlled from "
+"below options.. The change is reflected in whole site."
+msgstr ""
+
+#: inc/customizer.php:252
+msgid "Default layout for pages only"
+msgstr ""
+
+#: inc/customizer.php:265
+msgid ""
+"Select default layout for pages. This layout will be reflected in all pages "
+"unless unique layout is set for specific page."
+msgstr ""
+
+#: inc/customizer.php:278
+msgid "Default layout for single posts only"
+msgstr ""
+
+#: inc/customizer.php:291
+msgid ""
+"Select default layout for single posts. This layout will be reflected in all "
+"single posts unless unique layout is set for specific post."
+msgstr ""
+
+#: inc/customizer.php:304
+msgid "Blog page display type"
+msgstr ""
+
+#: inc/customizer.php:316
+msgid ""
+"Choose the display type for the latests posts view or posts page view "
+"(static front page)."
+msgstr ""
+
+#: inc/customizer.php:319
+msgid "Large featured image"
+msgstr ""
+
+#: inc/customizer.php:320
+msgid "Small featured image"
+msgstr ""
+
+#: inc/customizer.php:321
+msgid "Full Content"
+msgstr ""
+
+#: inc/customizer.php:329
+msgid "Primary color option"
+msgstr ""
+
+#: inc/customizer.php:340
+msgid ""
+"This will reflect in links, buttons and many others. Choose a color to match "
+"your site."
+msgstr ""
+
+#: inc/customizer.php:363
+msgid "Custom CSS"
+msgstr ""
+
+#: inc/customizer.php:375
+msgid "Write your custom css."
+msgstr ""
+
+#: inc/customizer.php:388
+msgid "Additional"
+msgstr ""
+
+#: inc/customizer.php:393
+msgid "Activate favicon"
+msgstr ""
+
+#: inc/customizer.php:405
+msgid "Check to activate favicon. Upload fav icon from below option"
+msgstr ""
+
+#: inc/customizer.php:411
+msgid "Upload favicon"
+msgstr ""
+
+#: inc/customizer.php:424
+msgid "Upload favicon for your site."
+msgstr ""
+
+#: inc/customizer.php:436
+msgid "Slider"
+msgstr ""
+
+#: inc/customizer.php:441
+msgid "Activate slider"
+msgstr ""
+
+#: inc/customizer.php:453
+msgid "Check to activate slider."
+msgstr ""
+
+#: inc/customizer.php:461
+#, php-format
+msgid "Image Upload #%1$s"
+msgstr ""
+
+#: inc/customizer.php:474
+msgid "Upload slider image."
+msgstr ""
+
+#: inc/customizer.php:488
+msgid "Enter title for your slider."
+msgstr ""
+
+#: inc/customizer.php:502
+msgid "Enter your slider description."
+msgstr ""
+
+#: inc/customizer.php:517
+msgid "Enter link to redirect slider when clicked"
+msgstr ""
+
+#: inc/customizer.php:535
+msgid "Upgrade to Pro"
+msgstr ""
+
+#: inc/customizer.php:539
+msgid "Free Support"
+msgstr ""
+
+#: inc/customizer.php:543
+msgid "Documentation"
+msgstr ""
+
+#: inc/customizer.php:547
+msgid "View Demo"
+msgstr ""
+
+#: inc/customizer.php:567
+msgid "About Esteem"
+msgstr ""
+
+#: inc/customizer.php:579
+msgid "If you like our work. Buy us a beer."
+msgstr ""
+
+#: inc/customizer.php:650
+msgid "Theme Info"
+msgstr ""
+
+#: inc/customizer.php:651
+msgid "View PRO version"
+msgstr ""
+
+#: inc/functions.php:257
+msgid "WordPress"
+msgstr ""
+
+#: inc/functions.php:259
+msgid "ThemeGrill"
+msgstr ""
+
+#: inc/functions.php:261
+#, php-format
+msgid "Copyright &copy; %1$s %2$s."
+msgstr ""
+
+#: inc/functions.php:261
+#, php-format
+msgid "Powered by %s."
+msgstr ""
+
+#: inc/functions.php:261
+#, php-format
+msgid "Theme: %1$s by %2$s."
+msgstr ""
+
+#: inc/functions.php:350
+#, php-format
+msgid ""
+"<span class=\"icon-time\"><a href=\"%1$s\" title=\"%2$s\" rel=\"bookmark\">"
+"%3$s</a></span>"
+msgstr ""
+
+#: inc/functions.php:361
+msgid "No Comments"
+msgstr ""
+
+#: inc/functions.php:361
+msgid "1 Comment"
+msgstr ""
+
+#: inc/functions.php:361
+msgid "% Comments"
+msgstr ""
+
+#: inc/functions.php:361
+msgid "Comments Off"
+msgstr ""
+
+#: inc/functions.php:364
+msgid "Edit"
+msgstr ""
+
+#: inc/header-functions.php:64
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: inc/header-functions.php:159
+#, php-format
+msgid "Author: %s"
+msgstr ""
+
+#: inc/header-functions.php:167
+#, php-format
+msgid "Day: %s"
+msgstr ""
+
+#: inc/header-functions.php:170
+#, php-format
+msgid "Month: %s"
+msgstr ""
+
+#: inc/header-functions.php:173
+#, php-format
+msgid "Year: %s"
+msgstr ""
+
+#: inc/header-functions.php:176 sidebar-left.php:29 sidebar.php:29
+msgid "Archives"
+msgstr ""
+
+#: inc/header-functions.php:181
+msgid "Page NOT Found"
+msgstr ""
+
+#: inc/header-functions.php:184
+msgid "Search Results"
+msgstr ""
+
+#: inc/header-functions.php:217
+msgid "You are here:"
+msgstr ""
+
+#: inc/widgets/widgets.php:20
+msgid "Shows widgets at Right side."
+msgstr ""
+
+#: inc/widgets/widgets.php:31
+msgid "Shows widgets at Left side."
+msgstr ""
+
+#: inc/widgets/widgets.php:41
+msgid "Business Page Sidebar"
+msgstr ""
+
+#: inc/widgets/widgets.php:43
+msgid "Shows widgets on Business Page Template."
+msgstr ""
+
+#: inc/widgets/widgets.php:52
+msgid "Footer Sidebar One"
+msgstr ""
+
+#: inc/widgets/widgets.php:54
+msgid "Shows widgets at footer sidebar one."
+msgstr ""
+
+#: inc/widgets/widgets.php:63
+msgid "Footer Sidebar Two"
+msgstr ""
+
+#: inc/widgets/widgets.php:65
+msgid "Shows widgets at footer sidebar two."
+msgstr ""
+
+#: inc/widgets/widgets.php:74
+msgid "Footer Sidebar Three"
+msgstr ""
+
+#: inc/widgets/widgets.php:76
+msgid "Shows widgets at footer sidebar three."
+msgstr ""
+
+#: inc/widgets/widgets.php:85
+msgid "Contact Page Sidebar"
+msgstr ""
+
+#: inc/widgets/widgets.php:87
+msgid "Shows widgets on Contact Page Template."
+msgstr ""
+
+#: inc/widgets/widgets.php:108
+msgid "Display Services( Business Layout )"
+msgstr ""
+
+#: inc/widgets/widgets.php:110
+msgid "TG: Services"
+msgstr ""
+
+#: inc/widgets/widgets.php:128
+msgid "Check to display the Featured Image"
+msgstr ""
+
+#: inc/widgets/widgets.php:129
+msgid ""
+"<strong>Note:</strong> Featured Image will overwrite the fontawesome icon."
+msgstr ""
+
+#: inc/widgets/widgets.php:133 inc/widgets/widgets.php:261
+msgid "Page"
+msgstr ""
+
+#: inc/widgets/widgets.php:233
+msgid ""
+"Use this widget to show recent work, portfolio or any pages as your wish "
+"( Business Layout )"
+msgstr ""
+
+#: inc/widgets/widgets.php:235
+msgid "TG: Featured Widget"
+msgstr ""
+
+#: inc/widgets/widgets.php:254 inc/widgets/widgets.php:571
+msgid "Title:"
+msgstr ""
+
+#: inc/widgets/widgets.php:344
+msgid "Use this widget to show the call to action section"
+msgstr ""
+
+#: inc/widgets/widgets.php:346
+msgid "TG: Call To Action Widget"
+msgstr ""
+
+#: inc/widgets/widgets.php:364
+msgid "Call to Action Main Text"
+msgstr ""
+
+#: inc/widgets/widgets.php:366
+msgid "Call to Action Additional Text"
+msgstr ""
+
+#: inc/widgets/widgets.php:369
+msgid "Button Text:"
+msgstr ""
+
+#: inc/widgets/widgets.php:373
+msgid "Button Redirect Link:"
+msgstr ""
+
+#: inc/widgets/widgets.php:377
+msgid "Open in new tab"
+msgstr ""
+
+#: inc/widgets/widgets.php:455
+msgid "Display Testimonial"
+msgstr ""
+
+#: inc/widgets/widgets.php:457
+msgid "TG: Testimonial"
+msgstr ""
+
+#: inc/widgets/widgets.php:574 inc/widgets/widgets.php:592
+msgid "Name:"
+msgstr ""
+
+#: inc/widgets/widgets.php:577 inc/widgets/widgets.php:595
+msgid "Image link:"
+msgstr ""
+
+#: inc/widgets/widgets.php:580 inc/widgets/widgets.php:598
+msgid "Testimonial Description"
+msgstr ""
+
+#: inc/widgets/widgets.php:583 inc/widgets/widgets.php:601
+msgid "Byline:"
+msgstr ""
+
+#: inc/widgets/widgets.php:586 inc/widgets/widgets.php:604
+msgid "Company:"
+msgstr ""
+
+#: inc/widgets/widgets.php:589 inc/widgets/widgets.php:607
+msgid "Company link:"
+msgstr ""
+
+#: navigation.php:22
+msgid "&laquo; Previous"
+msgstr ""
+
+#: navigation.php:23
+msgid "Next &raquo;"
+msgstr ""
+
+#: navigation.php:34
+msgid "&larr; Previous"
+msgstr ""
+
+#: navigation.php:35
+msgid "Next &rarr;"
+msgstr ""
+
+#: navigation.php:42
+msgctxt "Previous post link"
+msgid "&larr;"
+msgstr ""
+
+#: navigation.php:43
+msgctxt "Next post link"
+msgid "&rarr;"
+msgstr ""
+
+#: no-results.php:16
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: no-results.php:20
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: no-results.php:25
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: searchform.php:12 searchform.php:13 searchform.php:15
+msgid "Search"
+msgstr ""
+
+#: sidebar-left.php:36 sidebar.php:36
+msgid "Meta"
+msgstr ""
